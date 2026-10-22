@@ -20,7 +20,7 @@
 ---
 
 ## Overview
-The Domain Name System (DNS) is the cornerstone of the internet’s address system. Still, its open nature makes it a frequent target for attacks such as DNS spoofing, DNS cache poisoning, amplification DDoS, and DNS tunneling. This list provides resources and tools to enhance DNS security, monitor DNS traffic, detect malicious usage, and deploy proper defenses.
+The Domain Name System (DNS) is the cornerstone of the internet's address system. Still, its open nature makes it a frequent target for attacks such as DNS spoofing, DNS cache poisoning, amplification DDoS, and DNS tunneling. This list provides resources and tools to enhance DNS security, monitor DNS traffic, detect malicious usage, and deploy proper defenses.
 
 ---
 
@@ -30,7 +30,7 @@ DNS is a core internet protocol that translates human-readable domain names into
 - **[howdns.works](https://howdns.works/)** - Visual and fun explanation of DNS concepts.
 - **[A warm welcome to DNS](https://powerdns.org/hello-dns/)** - Beginner-friendly introduction to DNS by PowerDNS.
 - **[35C3 - Domain Name System](https://www.youtube.com/watch?v=I7060fqa-B8)** - A detailed video lecture on DNS.
-- **[Let’s hand write DNS messages](https://routley.io/posts/hand-writing-dns-messages/)** - Learn how DNS messages are structured at a low level.
+- **[Let's hand write DNS messages](https://routley.io/posts/hand-writing-dns-messages/)** - Learn how DNS messages are structured at a low level.
 - **[DNS for Rocket Scientists](http://www.zytrax.com/books/dns/)** - A comprehensive guide to mastering DNS.
 - **[Introduction to DNS](https://www.youtube.com/watch?v=dl-C6cBoRg4)** - An introduction to DNS by David Bombal.
 - **[Everything about DNS](https://www.youtube.com/watch?v=27r4Bzuj5NQ)** - Explanation on how DNS works by ByteByteGo.
@@ -53,7 +53,7 @@ DNS is a core internet protocol that translates human-readable domain names into
 - **[Fierce](https://github.com/mschwager/fierce)** - DNS reconnaissance tool to find hidden servers.
 - **[DSAT](https://github.com/shamimrezasohag/DSAT-DNSSecurityAnalysisTool)** - Security analysis of DNS configurations for multiple domains.
 - **[Internet.nl](https://internet.nl/)** - Check whether a domain/website uses modern Internet Standards.
-- **[DNS Inspect](https://dnsinspect.com/)** - A free web tool that checks your domain’s servers for common DNS and mail errors and generates a report explaining how to fix them.
+- **[DNS Inspect](https://dnsinspect.com/)** - A free web tool that checks your domain's servers for common DNS and mail errors and generates a report explaining how to fix them.
 - **[dnssec](https://github.com/themalwarenews/dnssec)** - Performs DNS security audits and takes a DNS IP as user input, which could act as a DNS security scanner.
 - **[EDUdig](https://edudig.se/)** - Web based DNS troubleshooting tool
 - **[IntoDNS.ai](https://intodns.ai)** - AI-powered DNS & email security scanner. Checks SPF, DKIM, DMARC, DNSSEC, MTA-STS, BIMI, and 40+ blacklists with AI-powered fix suggestions. Free API, no signup required.
@@ -80,7 +80,7 @@ DNS is a core internet protocol that translates human-readable domain names into
 - **[DEF CON 29 -Justin Perdok - Hi Im DOMAIN Steve, Please Let Me Access VLAN2](https://www.youtube.com/watch?v=lDCoyxIhTN8)**
 - **[DEF CON 29 - Tianze Ding - Vulnerability Exchange: One Domain Account For More Than Exchange Server](https://www.youtube.com/watch?v=7h38rI8KT30)**
 - **[Threatpost @ Black Hat USA 2021: A New Class of DNS Vulnerabilities](https://www.youtube.com/watch?v=6Xg3of8g7uI)**
-- **[How Great is the Great Firewall? Measuring China’s DNS Censorship](https://www.usenix.org/conference/usenixsecurity21/presentation/hoang)**
+- **[How Great is the Great Firewall? Measuring China's DNS Censorship](https://www.usenix.org/conference/usenixsecurity21/presentation/hoang)**
 - **[Injection Attacks Reloaded: Tunnelling Malicious Payloads over DNS](https://www.usenix.org/conference/usenixsecurity21/presentation/jeitner)**
 - **[code.talks 2018 Everything about DNS you never dared to ask!](https://www.youtube.com/watch?v=O4FDdc63upo)**
 - **[RSA Conference - Power of DNS as an Added Defense Against Modern Attacks](https://www.youtube.com/watch?v=5t1mUguj4_8)**
@@ -104,7 +104,7 @@ DNS is a core internet protocol that translates human-readable domain names into
 ---
 
 ## DNSSEC (DNS Security Extensions)
-- **[DotMoose DNSSEC Checker](https://dotmoose.com/dnssec-checker/)** - Free browser-based lookup of DS and DNSKEY records and the validating resolver’s AD flag; no account required.
+- **[DotMoose DNSSEC Checker](https://dotmoose.com/dnssec-checker/)** - Free browser-based lookup of DS and DNSKEY records and the validating resolver's AD flag; no account required.
 - **[DNSViz](https://dnsviz.net/)** - A graphical tool for visualizing DNSSEC configurations and issues.
 - **[OpenDNSSEC](https://www.opendnssec.org/)** - A DNSSEC key and zone management tool.
 - **[PowerDNS DNSSEC](https://doc.powerdns.com/authoritative/dnssec/index.html)** - PowerDNS setup guide for enabling DNSSEC.
